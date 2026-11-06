@@ -14,6 +14,7 @@ A practical directory of AI tools with official links, intended use cases, and t
 8. **Hugging Face** — Open models, datasets, demos, and community tooling. [Official site](https://huggingface.co/)
 9. **Replicate** — Hosted model inference and deployment APIs. [Official site](https://replicate.com/)
 10. **Together AI** — Hosted open-model inference and fine-tuning services. [Official site](https://www.together.ai/)
+11. **agent-qa** — Plain-English web, Android and iOS testing with persistent memidex memory and validated self-improvement. [Official site](https://vostride.com)
 
 ## How to evaluate a tool
 
